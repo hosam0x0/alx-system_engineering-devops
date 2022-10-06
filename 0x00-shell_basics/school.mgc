@@ -1,2 +1,3 @@
 #!/bin/bash
-file -c -m school.mgc
+0 dtring SCHOOL school data
+!:mime School
