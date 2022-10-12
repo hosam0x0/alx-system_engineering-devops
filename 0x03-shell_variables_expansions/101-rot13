@@ -1,4 +1,2 @@
 #!/bin/bash
-ge '[A-Za-z]' '[N-Za-Mn-z-m]'
-#!/ova/onfu
-tr '[N-Mn-m]' '[A-Mn-Za-m-z]'
+tr 'A-Za-z''N-ZA-Mn-za-m'
